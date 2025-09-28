@@ -15896,7 +15896,7 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://etherscan.io/address/0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                href: "https://bscscan.com/address/0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
