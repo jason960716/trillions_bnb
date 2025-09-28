@@ -15762,7 +15762,8 @@ function v1() {
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
               children: "🤖 Get $TRILLIONS",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8"
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+              target: "_blank",
             }),
             c.jsx("button", {
               onClick: () => r(!n),
@@ -15810,7 +15811,8 @@ function v1() {
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
                 children: "🤖 Get $TRILLIONS",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8"
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                target: "_blank",
               }),
             ],
           }),
@@ -15902,6 +15904,7 @@ function x1() {
               }),
               c.jsx("a", {
                 href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
               }),
@@ -16106,6 +16109,7 @@ function S1() {
                         children: [
                           c.jsxs("a", {
                             href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                            target: "_blank",
                             className: "my-4",
                             children: [
                               c.jsxs("button", {
@@ -16127,6 +16131,7 @@ function S1() {
                           }),
                           c.jsxs("a", {
                             href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf80c046cd40152a8ef8ce065f18f9dc5b6711cf6?t=1759046616287",
+                            target: "_blank",
                             className: "my-4",
                             children: [
                               c.jsxs("button", {
@@ -16524,6 +16529,7 @@ function _1() {
             }),
             c.jsxs("a", {
               href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf80c046cd40152a8ef8ce065f18f9dc5b6711cf6?t=1759046616287",
+              target: "_blank",
               children: [
                 c.jsxs("div", {
                   className: "text-center mt-12",
