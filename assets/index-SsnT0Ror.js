@@ -16348,14 +16348,14 @@ function k1() {
     }),
   });
 }
-const C1 = "/assets/ETHEREAL_1.jpeg",
-  E1 = "/assets/ETHEREAL_2.jpeg",
-  N1 = "/assets/ETHEREAL_3.jpeg",
-  P1 = "/assets/ETHEREAL_4.jpeg",
-  T1 = "/assets/ETHEREAL_5.jpeg",
-  j1 = "/assets/ETHEREAL_6.jpeg",
-  R1 = "/assets/ETHEREAL_7.jpeg",
-  b1 = "/assets/ETHEREAL_8.jpeg";
+const C1 = "/assets/1.png",
+  E1 = "/assets/2.png",
+  N1 = "/assets/3.png",
+  P1 = "/assets/4.png",
+  T1 = "/assets/5.png",
+  j1 = "/assets/6.png",
+  R1 = "/assets/7.png",
+  b1 = "/assets/8.png";
 function _1() {
   const [e, t] = x.useState(new Set()),
     n = (i) => {
