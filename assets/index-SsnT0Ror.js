@@ -16055,7 +16055,7 @@ function S1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "🤖 Plasma Just Got a Lot... Hotter 😏",
+              children: "🤖 BNB Chain Just Got a Lot... Hotter 😏",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
@@ -16160,7 +16160,9 @@ function S1() {
                   children: [
                     
                         c.jsx("img", {
-                         
+                         style:{
+                          borderRadius: "10px",
+                         },
                           src:"/assets/twitter.png",
                           width: "100%",
                           height: "400",
