@@ -16856,7 +16856,7 @@ function D1() {
     }),
   });
 }
-const F1 = "/assets/twitter.png";
+const F1 = "/twitter.png";
 function z1() {
   const e = ["Buy Tokens", "Tokenomics", "Bntober Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
