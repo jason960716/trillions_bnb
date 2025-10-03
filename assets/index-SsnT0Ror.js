@@ -15681,7 +15681,7 @@ const m1 = h1,
     })
   );
 y1.displayName = wm.displayName;
-const wu = "/assets/TRILLIONS.jpeg";
+const wu = "/logo.png";
 function v1() {
   const [e, t] = x.useState(!1),
     [n, r] = x.useState(!1);
@@ -15714,13 +15714,13 @@ function v1() {
               children: [
                 c.jsx("img", {
                   src: wu,
-                  alt: "Trillions",
+                  alt: "Bntober",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                 }),
                 c.jsx("span", {
                   className: "font-orbitron-bold text-2xl nsfw-text-gradient",
-                  children: "Trillions",
+                  children: "Bntober",
                 }),
               ],
             }),
@@ -15761,8 +15761,8 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "🤖 Get $TRILLIONS",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+              children: "🤖 Get $BNTOBER",
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15810,8 +15810,8 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "🤖 Get $TRILLIONS",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                children: "🤖 Get $BNTOBER",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
               }),
             ],
@@ -15866,7 +15866,7 @@ function x1() {
                 className: "flex justify-center mb-8",
                 children: c.jsx("img", {
                   src: wu,
-                  alt: "Trillions",
+                  alt: "Bntober",
                   className:
                     "w-80 h-80 md:w-96 md:h-96 object-cover rounded-full border-4 border-nsfw-cyan shadow-2xl logo-glitch",
                 }),
@@ -15875,19 +15875,19 @@ function x1() {
                 className: "flex justify-center mb-6",
                 children: c.jsx("img", {
                   src: g1,
-                  alt: "Trillions Text",
+                  alt: "Bntober Text",
                   className: "w-96 max-w-full h-auto logo-glitch",
                 }),
               }),
               c.jsx("h1", {
                 className:
                   "font-orbitron-black text-4xl md:text-6xl nsfw-text-gradient mb-4",
-                children: "$TRILLIONS Token",
+                children: "$BNTOBER Token",
               }),
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `First memecoin and slogan of @Plasma.
+                children: `Not predicting the future. And don't get too excited. 
 
 `,
               }),
@@ -15898,12 +15898,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                href: "https://bscscan.com/address/0x00000000000000000000000000000000000000",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16028,7 +16028,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+    t = "0x00000000000000000000000000000000000000",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16059,7 +16059,7 @@ function S1() {
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
-              children: `First memecoin and slogan of @Plasma.`,
+              children: `Not predicting the future. And don't get too excited. `,
             }),
           ],
         }),
@@ -16108,7 +16108,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16130,7 +16130,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf80c046cd40152a8ef8ce065f18f9dc5b6711cf6?t=1759046616287",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16212,7 +16212,7 @@ function k1() {
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Toggle the NSFW switch and Trillions transforms before your very eyes:",
+                "Toggle the NSFW switch and Bntober transforms before your very eyes:",
             }),
           ],
         }),
@@ -16297,7 +16297,7 @@ function k1() {
                   className:
                     "text-xl font-orbitron-bold text-nsfw-magenta mb-4",
                   children:
-                    "Trillions isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
+                    "Bntober isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
                 }),
                 c.jsx("p", {
                   className: "text-white/80",
@@ -16365,7 +16365,7 @@ function _1() {
     r = [
       {
         id: 1,
-        title: "Trillions Collection #1",
+        title: "Bntober Collection #1",
         description: "Exclusive NSFW content",
         preview: C1,
         tokensRequired: 0,
@@ -16373,7 +16373,7 @@ function _1() {
       },
       {
         id: 2,
-        title: "Trillions Collection #2",
+        title: "Bntober Collection #2",
         description: "Premium artwork collection",
         preview: E1,
         tokensRequired: 0,
@@ -16381,7 +16381,7 @@ function _1() {
       },
       {
         id: 3,
-        title: "Trillions Collection #3",
+        title: "Bntober Collection #3",
         description: "Limited edition drops",
         preview: N1,
         tokensRequired: 0,
@@ -16389,7 +16389,7 @@ function _1() {
       },
       {
         id: 4,
-        title: "Trillions Collection #4",
+        title: "Bntober Collection #4",
         description: "VIP exclusive content",
         preview: P1,
         tokensRequired: 0,
@@ -16397,7 +16397,7 @@ function _1() {
       },
       {
         id: 5,
-        title: "Trillions Collection #5",
+        title: "Bntober Collection #5",
         description: "Ultra rare collectibles",
         preview: T1,
         tokensRequired: 0,
@@ -16405,7 +16405,7 @@ function _1() {
       },
       {
         id: 6,
-        title: "Trillions Collection #6",
+        title: "Bntober Collection #6",
         description: "Legendary tier artwork",
         preview: j1,
         tokensRequired: 0,
@@ -16413,7 +16413,7 @@ function _1() {
       },
       {
         id: 7,
-        title: "Trillions Collection #7",
+        title: "Bntober Collection #7",
         description: "Seductive masterpiece",
         preview: R1,
         tokensRequired: 0,
@@ -16421,7 +16421,7 @@ function _1() {
       },
       {
         id: 8,
-        title: "Trillions Collection #8",
+        title: "Bntober Collection #8",
         description: "Gothic elegance",
         preview: b1,
         tokensRequired: 0,
@@ -16453,7 +16453,7 @@ function _1() {
                       }),
                       c.jsxs("p", {
                         className: "text-white font-orbitron-bold",
-                        children: [i.tokensRequired.toLocaleString(), " $TRILLIONS"],
+                        children: [i.tokensRequired.toLocaleString(), " $BNTOBER"],
                       }),
                       c.jsx("p", {
                         className: "text-white/70 text-sm",
@@ -16491,7 +16491,7 @@ function _1() {
                   }),
                   c.jsx("span", {
                     className: "text-nsfw-cyan font-orbitron text-sm",
-                    children: "Trillions After Dark",
+                    children: "Bntober After Dark",
                   }),
                 ],
               }),
@@ -16511,12 +16511,12 @@ function _1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "📸 Trillions After Dark",
+              children: "📸 Bntober After Dark",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Exclusive NSFW content featuring Trillions in the most seductive moments.",
+                "Exclusive NSFW content featuring Bntober in the most seductive moments.",
             }),
           ],
         }),
@@ -16528,7 +16528,7 @@ function _1() {
               children: r.map((i) => c.jsx(o, { content: i }, i.id)),
             }),
             c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf80c046cd40152a8ef8ce065f18f9dc5b6711cf6?t=1759046616287",
+              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
               target: "_blank",
               children: [
                 c.jsxs("div", {
@@ -16537,7 +16537,7 @@ function _1() {
                     c.jsx("p", {
                       className: "text-white/60 mb-4",
                       children:
-                        "Explore Trillions's exclusive collection of seductive artwork",
+                        "Explore Bntober's exclusive collection of seductive artwork",
                     }),
                     c.jsx("button", {
                       className: "nsfw-button",
@@ -16640,7 +16640,7 @@ function I1() {
       number: 3,
       title: "Connect to Pancakeswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Trillions contract address.",
+        "Visit Pancakeswap and connect your wallet. Paste the Bntober contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
@@ -16654,7 +16654,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Trillions tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your BNB for Bntober tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16670,7 +16670,7 @@ function I1() {
           children: [
             c.jsx("h2", {
               className: "font-fredoka text-4xl text-crypto-dark mb-4",
-              children: "How to Buy Trillions",
+              children: "How to Buy Bntober",
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
@@ -16764,7 +16764,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/hey_Ethereal",
+      url: "https://t.me/Bntober",
     },
     {
       name: "X",
@@ -16773,7 +16773,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/hey_Ethereal",
+      url: "https://x.com/Bntober",
     },
     {
       name: "DexScreener",
@@ -16782,7 +16782,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
     },
     {
       name: "Coingecko",
@@ -16856,30 +16856,30 @@ function D1() {
     }),
   });
 }
-const F1 = "/assets/banner.jpeg";
+const F1 = "/assets/twitter.png";
 function z1() {
-  const e = ["Buy Tokens", "Tokenomics", "Trillions Gallery", "Community"],
+  const e = ["Buy Tokens", "Tokenomics", "Bntober Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
     n = [
       {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/hey_Ethereal",
+        url: "https://t.me/Bntober",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/hey_Ethereal",
+        url: "https://x.com/Bntober",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xf80c046cd40152a8ef8ce065f18f9dc5b6711cf6?t=1759046616287" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
     r = (o) => {
       const s = {
         "Buy Tokens": "buy",
         Tokenomics: "tokenomics",
-        "Trillions Gallery": "gallery",
+        "Bntober Gallery": "gallery",
         Community: "community",
       }[o];
       if (s) {
@@ -16896,7 +16896,7 @@ function z1() {
           className: "mb-12 flex justify-center",
           children: c.jsx("img", {
             src: F1,
-            alt: "Trillions Footer Banner",
+            alt: "Bntober Footer Banner",
             className:
               "max-w-full h-auto rounded-lg shadow-2xl border border-nsfw-cyan/30",
           }),
@@ -16911,21 +16911,21 @@ function z1() {
                   children: [
                     c.jsx("img", {
                       src: wu,
-                      alt: "Trillions",
+                      alt: "Bntober",
                       className:
                         "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                     }),
                     c.jsx("span", {
                       className:
                         "font-orbitron-bold text-2xl nsfw-text-gradient",
-                      children: "Trillions",
+                      children: "Bntober",
                     }),
                   ],
                 }),
                 c.jsx("p", {
                   className: "text-gray-300 mb-4",
                   children:
-                    "First memecoin and slogan of @Plasma.",
+                    "Not predicting the future. And don't get too excited. ",
                 }),
                 c.jsx("div", {
                   className: "flex space-x-4",
@@ -16993,12 +16993,12 @@ function z1() {
                     }),
                     c.jsx("div", {
                       className: "text-gray-300",
-                      children: "Symbol: TRILLIONS",
+                      children: "Symbol: BNTOBER",
                     }),
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x73e4a064969b8a9efc75a0a354f3bbcce592b9a8",
+                        "Contract: 0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -17012,7 +17012,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Trillions. Made with 🤖 and 💎 by degenerates for degenerates.",
+                "© 2025 Bntober. Made with 🤖 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
