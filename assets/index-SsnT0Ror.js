@@ -16766,7 +16766,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/Bntober",
+      url: "https://t.me/BntoberCZ",
     },
     {
       name: "X",
@@ -16775,7 +16775,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/Bntober",
+      url: "https://x.com/BntoberCZ",
     },
     {
       name: "DexScreener",
@@ -16867,13 +16867,13 @@ function z1() {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/Bntober",
+        url: "https://t.me/BntoberCZ",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/Bntober",
+        url: "https://x.com/BntoberCZ",
       },
       { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
