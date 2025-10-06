@@ -16130,7 +16130,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x1d3758dc843be91a1b28b4166401514a2fbfcd53?t=1759778042016",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16530,7 +16530,7 @@ function _1() {
   //             children: r.map((i) => c.jsx(o, { content: i }, i.id)),
   //           }),
   //           c.jsxs("a", {
-  //             href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
+  //             href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x1d3758dc843be91a1b28b4166401514a2fbfcd53?t=1759778042016",
   //             target: "_blank",
   //             children: [
   //               c.jsxs("div", {
@@ -16875,7 +16875,7 @@ function z1() {
         color: "hover:text-nsfw-cyan",
         url: "https://x.com/Bep20Froge",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0x1d3758dc843be91a1b28b4166401514a2fbfcd53?t=1759778042016" },
     ],
     r = (o) => {
       const s = {
