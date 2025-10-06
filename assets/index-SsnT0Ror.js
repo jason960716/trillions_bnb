@@ -15714,13 +15714,13 @@ function v1() {
               children: [
                 c.jsx("img", {
                   src: wu,
-                  alt: "Bntober",
+                  alt: "Froge",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                 }),
                 c.jsx("span", {
                   className: "font-orbitron-bold text-2xl nsfw-text-gradient",
-                  children: "Bntober",
+                  children: "Froge",
                 }),
               ],
             }),
@@ -15761,8 +15761,8 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "🤖 Get $BNTOBER",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+              children: "🤖 Get $FROGE",
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15810,8 +15810,8 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "🤖 Get $BNTOBER",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+                children: "🤖 Get $FROGE",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
               }),
             ],
@@ -15866,7 +15866,7 @@ function x1() {
                 className: "flex justify-center mb-8",
                 children: c.jsx("img", {
                   src: wu,
-                  alt: "Bntober",
+                  alt: "Froge",
                   className:
                     "w-80 h-80 md:w-96 md:h-96 object-cover rounded-full border-4 border-nsfw-cyan shadow-2xl logo-glitch",
                 }),
@@ -15875,19 +15875,19 @@ function x1() {
                 className: "flex justify-center mb-6",
                 children: c.jsx("img", {
                   src: g1,
-                  alt: "Bntober Text",
+                  alt: "Froge Text",
                   className: "w-96 max-w-full h-auto logo-glitch",
                 }),
               }),
               c.jsx("h1", {
                 className:
                   "font-orbitron-black text-4xl md:text-6xl nsfw-text-gradient mb-4",
-                children: "$BNTOBER Token",
+                children: "$FROGE Token",
               }),
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Not predicting the future. And don't get too excited. 
+                children: `OpenAI Mascot 
 
 `,
               }),
@@ -15898,12 +15898,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+                href: "https://bscscan.com/address/0x00000000000000000000000000000000000000",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16028,7 +16028,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+    t = "0x00000000000000000000000000000000000000",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16059,7 +16059,7 @@ function S1() {
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
-              children: `Not predicting the future. And don't get too excited. `,
+              children: `OpenAI Mascot `,
             }),
           ],
         }),
@@ -16108,7 +16108,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16130,7 +16130,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xaf201899c5cde2e95739bf7e32a0c0b4d3d20b4f?t=1759550330488",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16214,7 +16214,7 @@ function k1() {
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Toggle the NSFW switch and Bntober transforms before your very eyes:",
+                "Toggle the NSFW switch and Froge transforms before your very eyes:",
             }),
           ],
         }),
@@ -16299,7 +16299,7 @@ function k1() {
                   className:
                     "text-xl font-orbitron-bold text-nsfw-magenta mb-4",
                   children:
-                    "Bntober isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
+                    "Froge isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
                 }),
                 c.jsx("p", {
                   className: "text-white/80",
@@ -16367,7 +16367,7 @@ function _1() {
     r = [
       {
         id: 1,
-        title: "Bntober Collection #1",
+        title: "Froge Collection #1",
         description: "Exclusive NSFW content",
         preview: C1,
         tokensRequired: 0,
@@ -16375,7 +16375,7 @@ function _1() {
       },
       {
         id: 2,
-        title: "Bntober Collection #2",
+        title: "Froge Collection #2",
         description: "Premium artwork collection",
         preview: E1,
         tokensRequired: 0,
@@ -16383,7 +16383,7 @@ function _1() {
       },
       {
         id: 3,
-        title: "Bntober Collection #3",
+        title: "Froge Collection #3",
         description: "Limited edition drops",
         preview: N1,
         tokensRequired: 0,
@@ -16391,7 +16391,7 @@ function _1() {
       },
       {
         id: 4,
-        title: "Bntober Collection #4",
+        title: "Froge Collection #4",
         description: "VIP exclusive content",
         preview: P1,
         tokensRequired: 0,
@@ -16399,7 +16399,7 @@ function _1() {
       },
       {
         id: 5,
-        title: "Bntober Collection #5",
+        title: "Froge Collection #5",
         description: "Ultra rare collectibles",
         preview: T1,
         tokensRequired: 0,
@@ -16407,7 +16407,7 @@ function _1() {
       },
       {
         id: 6,
-        title: "Bntober Collection #6",
+        title: "Froge Collection #6",
         description: "Legendary tier artwork",
         preview: j1,
         tokensRequired: 0,
@@ -16415,7 +16415,7 @@ function _1() {
       },
       {
         id: 7,
-        title: "Bntober Collection #7",
+        title: "Froge Collection #7",
         description: "Seductive masterpiece",
         preview: R1,
         tokensRequired: 0,
@@ -16423,7 +16423,7 @@ function _1() {
       },
       {
         id: 8,
-        title: "Bntober Collection #8",
+        title: "Froge Collection #8",
         description: "Gothic elegance",
         preview: b1,
         tokensRequired: 0,
@@ -16455,7 +16455,7 @@ function _1() {
                       }),
                       c.jsxs("p", {
                         className: "text-white font-orbitron-bold",
-                        children: [i.tokensRequired.toLocaleString(), " $BNTOBER"],
+                        children: [i.tokensRequired.toLocaleString(), " $FROGE"],
                       }),
                       c.jsx("p", {
                         className: "text-white/70 text-sm",
@@ -16493,7 +16493,7 @@ function _1() {
                   }),
                   c.jsx("span", {
                     className: "text-nsfw-cyan font-orbitron text-sm",
-                    children: "Bntober After Dark",
+                    children: "Froge After Dark",
                   }),
                 ],
               }),
@@ -16502,58 +16502,58 @@ function _1() {
         ],
       });
     };
-  return c.jsx("section", {
-    id: "gallery",
-    className: "nsfw-section",
-    children: c.jsxs("div", {
-      className: "max-w-7xl mx-auto",
-      children: [
-        c.jsxs("div", {
-          className: "text-center mb-12",
-          children: [
-            c.jsx("h2", {
-              className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "📸 Bntober After Dark",
-            }),
-            c.jsx("p", {
-              className: "text-lg text-white/80",
-              children:
-                "Exclusive NSFW content featuring Bntober in the most seductive moments.",
-            }),
-          ],
-        }),
-        c.jsxs("div", {
-          className: "nsfw-section-content",
-          children: [
-            c.jsx("div", {
-              className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6",
-              children: r.map((i) => c.jsx(o, { content: i }, i.id)),
-            }),
-            c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xaf201899c5cde2e95739bf7e32a0c0b4d3d20b4f?t=1759550330488",
-              target: "_blank",
-              children: [
-                c.jsxs("div", {
-                  className: "text-center mt-12",
-                  children: [
-                    c.jsx("p", {
-                      className: "text-white/60 mb-4",
-                      children:
-                        "Explore Bntober's exclusive collection of seductive artwork",
-                    }),
-                    c.jsx("button", {
-                      className: "nsfw-button",
-                      children: "Chart",
-                    }),
-                  ],
-                }),
-              ]
-            })
-          ],
-        }),
-      ],
-    }),
-  });
+  // return c.jsx("section", {
+  //   id: "gallery",
+  //   className: "nsfw-section",
+  //   children: c.jsxs("div", {
+  //     className: "max-w-7xl mx-auto",
+  //     children: [
+  //       c.jsxs("div", {
+  //         className: "text-center mb-12",
+  //         children: [
+  //           c.jsx("h2", {
+  //             className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
+  //             children: "📸 Froge After Dark",
+  //           }),
+  //           c.jsx("p", {
+  //             className: "text-lg text-white/80",
+  //             children:
+  //               "Exclusive NSFW content featuring Froge in the most seductive moments.",
+  //           }),
+  //         ],
+  //       }),
+  //       c.jsxs("div", {
+  //         className: "nsfw-section-content",
+  //         children: [
+  //           c.jsx("div", {
+  //             className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6",
+  //             children: r.map((i) => c.jsx(o, { content: i }, i.id)),
+  //           }),
+  //           c.jsxs("a", {
+  //             href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
+  //             target: "_blank",
+  //             children: [
+  //               c.jsxs("div", {
+  //                 className: "text-center mt-12",
+  //                 children: [
+  //                   c.jsx("p", {
+  //                     className: "text-white/60 mb-4",
+  //                     children:
+  //                       "Explore Froge's exclusive collection of seductive artwork",
+  //                   }),
+  //                   c.jsx("button", {
+  //                     className: "nsfw-button",
+  //                     children: "Chart",
+  //                   }),
+  //                 ],
+  //               }),
+  //             ]
+  //           })
+  //         ],
+  //       }),
+  //     ],
+  //   }),
+  // });
 }
 const Sm = x.forwardRef(({ className: e, ...t }, n) =>
   c.jsx("div", {
@@ -16642,7 +16642,7 @@ function I1() {
       number: 3,
       title: "Connect to Pancakeswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Bntober contract address.",
+        "Visit Pancakeswap and connect your wallet. Paste the Froge contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
@@ -16656,7 +16656,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Bntober tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your BNB for Froge tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16672,7 +16672,7 @@ function I1() {
           children: [
             c.jsx("h2", {
               className: "font-fredoka text-4xl text-crypto-dark mb-4",
-              children: "How to Buy Bntober",
+              children: "How to Buy Froge",
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
@@ -16766,7 +16766,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/BntoberCZ",
+      url: "https://t.me/Bep20Froge",
     },
     {
       name: "X",
@@ -16775,7 +16775,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/BntoberCZ",
+      url: "https://x.com/Bep20Froge",
     },
     {
       name: "DexScreener",
@@ -16784,7 +16784,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
     },
     {
       name: "Coingecko",
@@ -16860,28 +16860,28 @@ function D1() {
 }
 const F1 = "/twitter.png";
 function z1() {
-  const e = ["Buy Tokens", "Tokenomics", "Bntober Gallery", "Community"],
+  const e = ["Buy Tokens", "Tokenomics", "Froge Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
     n = [
       {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/BntoberCZ",
+        url: "https://t.me/Bep20Froge",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/BntoberCZ",
+        url: "https://x.com/Bep20Froge",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xaf201899c5cde2e95739bf7e32a0c0b4d3d20b4f?t=1759550330488" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
     r = (o) => {
       const s = {
         "Buy Tokens": "buy",
         Tokenomics: "tokenomics",
-        "Bntober Gallery": "gallery",
+        "Froge Gallery": "gallery",
         Community: "community",
       }[o];
       if (s) {
@@ -16898,7 +16898,7 @@ function z1() {
           className: "mb-12 flex justify-center",
           children: c.jsx("img", {
             src: F1,
-            alt: "Bntober Footer Banner",
+            alt: "Froge Footer Banner",
             className:
               "max-w-full h-auto rounded-lg shadow-2xl border border-nsfw-cyan/30",
           }),
@@ -16913,21 +16913,21 @@ function z1() {
                   children: [
                     c.jsx("img", {
                       src: wu,
-                      alt: "Bntober",
+                      alt: "Froge",
                       className:
                         "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                     }),
                     c.jsx("span", {
                       className:
                         "font-orbitron-bold text-2xl nsfw-text-gradient",
-                      children: "Bntober",
+                      children: "Froge",
                     }),
                   ],
                 }),
                 c.jsx("p", {
                   className: "text-gray-300 mb-4",
                   children:
-                    "Not predicting the future. And don't get too excited. ",
+                    "OpenAI Mascot ",
                 }),
                 c.jsx("div", {
                   className: "flex space-x-4",
@@ -16995,12 +16995,12 @@ function z1() {
                     }),
                     c.jsx("div", {
                       className: "text-gray-300",
-                      children: "Symbol: BNTOBER",
+                      children: "Symbol: Froge",
                     }),
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x330f8880814de6d2eed32cefe42c96e9c495e7d1",
+                        "Contract: 0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -17014,7 +17014,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Bntober. Made with 🤖 and 💎 by degenerates for degenerates.",
+                "© 2025 Froge. Made with 🤖 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
