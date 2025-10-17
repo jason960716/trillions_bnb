@@ -15854,7 +15854,7 @@ function x1() {
       }),
       c.jsx("div", {
         className:
-          "absolute inset-0 bg-gradient-to-r from-black via-gray-900 to-black",
+          "absolute inset-0 mybackground",
       }),
       c.jsxs("div", {
         className: "relative max-w-7xl mx-auto text-center z-10",

@@ -54,6 +54,13 @@
   --tw-contain-paint: ;
   --tw-contain-style: ;
 }
+.mybackground{
+  background: #000;
+  background-image: url("/assets/main.gif");
+  
+  background-position: center;
+  background-size: cover;
+}
 ::backdrop {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
