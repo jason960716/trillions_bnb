@@ -15761,7 +15761,7 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "🤖 Get $手指心",
+              children: "� Get $🫰",
               href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
               target: "_blank",
             }),
@@ -15810,7 +15810,7 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "🤖 Get $手指心",
+                children: "� Get $🫰",
                 href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
                 target: "_blank",
               }),
@@ -15882,7 +15882,7 @@ function x1() {
               c.jsx("h1", {
                 className:
                   "font-orbitron-black text-4xl md:text-6xl nsfw-text-gradient mb-4",
-                children: "$手指心 Token",
+                children: "$🫰 Token",
               }),
               c.jsx("p", {
                 className:
@@ -16055,7 +16055,7 @@ function S1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "🤖 BNB Chain Just Got a Lot... Hotter 😏",
+              children: "🔶 BNB Chain Just Got a Lot... Hotter 😏",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
@@ -16473,7 +16473,7 @@ function _1() {
                       }),
                       c.jsxs("p", {
                         className: "text-white font-orbitron-bold",
-                        children: [i.tokensRequired.toLocaleString(), " $手指心"],
+                        children: [i.tokensRequired.toLocaleString(), " $🫰"],
                       }),
                       c.jsx("p", {
                         className: "text-white/70 text-sm",
@@ -17013,7 +17013,7 @@ function z1() {
                     }),
                     c.jsx("div", {
                       className: "text-gray-300",
-                      children: "Symbol: Finger Heart",
+                      children: "Symbol: 🫰",
                     }),
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
@@ -17032,7 +17032,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Finger Heart. Made with 🤖 and 💎 by degenerates for degenerates.",
+                "© 2025 Finger Heart. Made with � and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
