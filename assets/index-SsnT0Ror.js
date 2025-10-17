@@ -16071,6 +16071,24 @@ function S1() {
               c.jsxs("div", {
                 className: "space-y-6",
                 children: [
+                   c.jsxs("div", {
+                    className: "nsfw-card",
+                    children: [
+                      c.jsx("h3", {
+                        className:
+                          "font-orbitron-bold text-xl mb-4 text-nsfw-cyan",
+                        children: "About Finger Heart",
+                      }),
+                      c.jsxs("div", {
+                        className:
+                          "bg-nsfw-dark rounded-lg p-4 font-orbitron text-sm break-all border border-nsfw-cyan",
+                        children: [
+                          c.jsx("span", { children: "Known worldwide as a symbol of love and peace. Love and peace, we build together with Binance!" }),
+                          
+                        ],
+                      }),
+                    ],
+                  }),
                   c.jsxs("div", {
                     className: "nsfw-card",
                     children: [
