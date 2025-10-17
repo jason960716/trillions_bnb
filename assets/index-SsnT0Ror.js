@@ -16083,7 +16083,7 @@ function S1() {
                         className:
                           "bg-nsfw-dark rounded-lg p-4 font-orbitron text-sm break-all border border-nsfw-cyan",
                         children: [
-                          c.jsx("span", { children: "Known worldwide as a symbol of love and peace. Love and peace, we build together with Binance!" }),
+                          c.jsx("span", { children: "Finger Heart🫰 - Known worldwide as a symbol of love ❤️‍🔥 and peace 🕊. ♥️ Love and peace, we build together with Binance! 🔶" }),
                           
                         ],
                       }),
