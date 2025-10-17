@@ -15761,7 +15761,7 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "� Get $🫰",
+              children: "🫰 Get $🫰",
               href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
               target: "_blank",
             }),
@@ -15810,7 +15810,7 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "� Get $🫰",
+                children: "🫰 Get $🫰",
                 href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
                 target: "_blank",
               }),
@@ -17032,7 +17032,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Finger Heart. Made with � and 💎 by degenerates for degenerates.",
+                "© 2025 Finger Heart. Made with 🫰 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
