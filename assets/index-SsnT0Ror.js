@@ -15714,13 +15714,13 @@ function v1() {
               children: [
                 c.jsx("img", {
                   src: "/logo1.png",
-                  alt: "Shamatte CZ",
+                  alt: "Finger Heart",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                 }),
                 c.jsx("span", {
                   className: "font-orbitron-bold text-2xl nsfw-text-gradient",
-                  children: "Shamatte CZ",
+                  children: "Finger Heart",
                 }),
               ],
             }),
@@ -15761,8 +15761,8 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "🤖 Get $杀马特CZ",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+              children: "🤖 Get $手指心",
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15810,8 +15810,8 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "🤖 Get $杀马特CZ",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+                children: "🤖 Get $手指心",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
               }),
             ],
@@ -15866,7 +15866,7 @@ function x1() {
                 className: "flex justify-center mb-8",
                 children: c.jsx("img", {
                   src: wu,
-                  alt: "Shamatte CZ",
+                  alt: "Finger Heart",
                   className:
                     "w-80 h-80 md:w-96 md:h-96 object-cover rounded-full border-4 border-nsfw-cyan shadow-2xl logo-glitch",
                 }),
@@ -15875,19 +15875,19 @@ function x1() {
                 className: "flex justify-center mb-6",
                 children: c.jsx("img", {
                   src: g1,
-                  alt: "Shamatte CZ Text",
+                  alt: "Finger Heart Text",
                   className: "w-96 max-w-full h-auto logo-glitch",
                 }),
               }),
               c.jsx("h1", {
                 className:
                   "font-orbitron-black text-4xl md:text-6xl nsfw-text-gradient mb-4",
-                children: "$杀马特CZ Token",
+                children: "$手指心 Token",
               }),
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Shamatte CZ 
+                children: `Finger Heart 
 
 `,
               }),
@@ -15898,12 +15898,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+                href: "https://bscscan.com/address/0x00000000000000000000000000000000000000",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16028,7 +16028,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+    t = "0x00000000000000000000000000000000000000",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16059,7 +16059,7 @@ function S1() {
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
-              children: `Shamatte CZ `,
+              children: `Finger Heart `,
             }),
           ],
         }),
@@ -16108,7 +16108,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16130,7 +16130,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x0072c2b73183bcee4a97b81c8067aa0845e65245?t=1760186110747",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16214,7 +16214,7 @@ function k1() {
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Toggle the NSFW switch and Shamatte CZ transforms before your very eyes:",
+                "Toggle the NSFW switch and Finger Heart transforms before your very eyes:",
             }),
           ],
         }),
@@ -16299,7 +16299,7 @@ function k1() {
                   className:
                     "text-xl font-orbitron-bold text-nsfw-magenta mb-4",
                   children:
-                    "Shamatte CZ isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
+                    "Finger Heart isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
                 }),
                 c.jsx("p", {
                   className: "text-white/80",
@@ -16367,7 +16367,7 @@ function _1() {
     r = [
       {
         id: 1,
-        title: "Shamatte CZ Collection #1",
+        title: "Finger Heart Collection #1",
         description: "Exclusive NSFW content",
         preview: C1,
         tokensRequired: 0,
@@ -16375,7 +16375,7 @@ function _1() {
       },
       {
         id: 2,
-        title: "Shamatte CZ Collection #2",
+        title: "Finger Heart Collection #2",
         description: "Premium artwork collection",
         preview: E1,
         tokensRequired: 0,
@@ -16383,7 +16383,7 @@ function _1() {
       },
       {
         id: 3,
-        title: "Shamatte CZ Collection #3",
+        title: "Finger Heart Collection #3",
         description: "Limited edition drops",
         preview: N1,
         tokensRequired: 0,
@@ -16391,7 +16391,7 @@ function _1() {
       },
       {
         id: 4,
-        title: "Shamatte CZ Collection #4",
+        title: "Finger Heart Collection #4",
         description: "VIP exclusive content",
         preview: P1,
         tokensRequired: 0,
@@ -16399,7 +16399,7 @@ function _1() {
       },
       {
         id: 5,
-        title: "Shamatte CZ Collection #5",
+        title: "Finger Heart Collection #5",
         description: "Ultra rare collectibles",
         preview: T1,
         tokensRequired: 0,
@@ -16407,7 +16407,7 @@ function _1() {
       },
       {
         id: 6,
-        title: "Shamatte CZ Collection #6",
+        title: "Finger Heart Collection #6",
         description: "Legendary tier artwork",
         preview: j1,
         tokensRequired: 0,
@@ -16415,7 +16415,7 @@ function _1() {
       },
       {
         id: 7,
-        title: "Shamatte CZ Collection #7",
+        title: "Finger Heart Collection #7",
         description: "Seductive masterpiece",
         preview: R1,
         tokensRequired: 0,
@@ -16423,7 +16423,7 @@ function _1() {
       },
       {
         id: 8,
-        title: "Shamatte CZ Collection #8",
+        title: "Finger Heart Collection #8",
         description: "Gothic elegance",
         preview: b1,
         tokensRequired: 0,
@@ -16455,7 +16455,7 @@ function _1() {
                       }),
                       c.jsxs("p", {
                         className: "text-white font-orbitron-bold",
-                        children: [i.tokensRequired.toLocaleString(), " $杀马特CZ"],
+                        children: [i.tokensRequired.toLocaleString(), " $手指心"],
                       }),
                       c.jsx("p", {
                         className: "text-white/70 text-sm",
@@ -16493,7 +16493,7 @@ function _1() {
                   }),
                   c.jsx("span", {
                     className: "text-nsfw-cyan font-orbitron text-sm",
-                    children: "Shamatte CZ After Dark",
+                    children: "Finger Heart After Dark",
                   }),
                 ],
               }),
@@ -16513,12 +16513,12 @@ function _1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "📸 Shamatte CZ After Dark",
+              children: "📸 Finger Heart After Dark",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Exclusive NSFW content featuring Shamatte CZ in the most seductive moments.",
+                "Exclusive NSFW content featuring Finger Heart in the most seductive moments.",
             }),
           ],
         }),
@@ -16530,7 +16530,7 @@ function _1() {
               children: r.map((i) => c.jsx(o, { content: i }, i.id)),
             }),
             c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x0072c2b73183bcee4a97b81c8067aa0845e65245?t=1760186110747",
+              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
               target: "_blank",
               children: [
                 c.jsxs("div", {
@@ -16539,7 +16539,7 @@ function _1() {
                     c.jsx("p", {
                       className: "text-white/60 mb-4",
                       children:
-                        "Explore Shamatte CZ's exclusive collection of seductive artwork",
+                        "Explore Finger Heart's exclusive collection of seductive artwork",
                     }),
                     c.jsx("button", {
                       className: "nsfw-button",
@@ -16642,7 +16642,7 @@ function I1() {
       number: 3,
       title: "Connect to Pancakeswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Shamatte CZ contract address.",
+        "Visit Pancakeswap and connect your wallet. Paste the Finger Heart contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
@@ -16656,7 +16656,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Shamatte CZ tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your BNB for Finger Heart tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16672,7 +16672,7 @@ function I1() {
           children: [
             c.jsx("h2", {
               className: "font-fredoka text-4xl text-crypto-dark mb-4",
-              children: "How to Buy Shamatte CZ",
+              children: "How to Buy Finger Heart",
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
@@ -16766,7 +16766,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/ShamatteCZ",
+      url: "https://t.me/BNBFingerHeart",
     },
     {
       name: "X",
@@ -16775,7 +16775,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/ShamatteCZ",
+      url: "https://x.com/BNBFingerHeart",
     },
     {
       name: "DexScreener",
@@ -16784,7 +16784,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
     },
     {
       name: "Coingecko",
@@ -16860,28 +16860,28 @@ function D1() {
 }
 const F1 = "/twitter.png";
 function z1() {
-  const e = ["Buy Tokens", "Tokenomics", "Shamatte CZ Gallery", "Community"],
+  const e = ["Buy Tokens", "Tokenomics", "Finger Heart Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
     n = [
       {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/ShamatteCZ",
+        url: "https://t.me/BNBFingerHeart",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/ShamatteCZ",
+        url: "https://x.com/BNBFingerHeart",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0x0072c2b73183bcee4a97b81c8067aa0845e65245?t=1760186110747" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
     r = (o) => {
       const s = {
         "Buy Tokens": "buy",
         Tokenomics: "tokenomics",
-        "Shamatte CZ Gallery": "gallery",
+        "Finger Heart Gallery": "gallery",
         Community: "community",
       }[o];
       if (s) {
@@ -16898,7 +16898,7 @@ function z1() {
           className: "mb-12 flex justify-center",
           children: c.jsx("img", {
             src: F1,
-            alt: "Shamatte CZ Footer Banner",
+            alt: "Finger Heart Footer Banner",
             className:
               "max-w-full h-auto rounded-lg shadow-2xl border border-nsfw-cyan/30",
           }),
@@ -16913,21 +16913,21 @@ function z1() {
                   children: [
                     c.jsx("img", {
                       src: wu,
-                      alt: "Shamatte CZ",
+                      alt: "Finger Heart",
                       className:
                         "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                     }),
                     c.jsx("span", {
                       className:
                         "font-orbitron-bold text-2xl nsfw-text-gradient",
-                      children: "Shamatte CZ",
+                      children: "Finger Heart",
                     }),
                   ],
                 }),
                 c.jsx("p", {
                   className: "text-gray-300 mb-4",
                   children:
-                    "Shamatte CZ ",
+                    "Finger Heart ",
                 }),
                 c.jsx("div", {
                   className: "flex space-x-4",
@@ -16995,12 +16995,12 @@ function z1() {
                     }),
                     c.jsx("div", {
                       className: "text-gray-300",
-                      children: "Symbol: Shamatte CZ",
+                      children: "Symbol: Finger Heart",
                     }),
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x6c07425572d58235b2107e7a8f583b85df6da4c3",
+                        "Contract: 0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -17014,7 +17014,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Shamatte CZ. Made with 🤖 and 💎 by degenerates for degenerates.",
+                "© 2025 Finger Heart. Made with 🤖 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
