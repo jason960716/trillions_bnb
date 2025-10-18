@@ -15714,13 +15714,13 @@ function v1() {
               children: [
                 c.jsx("img", {
                   src: "/logo1.png",
-                  alt: "Expert",
+                  alt: "Pro",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                 }),
                 c.jsx("span", {
                   className: "font-orbitron-bold text-2xl nsfw-text-gradient",
-                  children: "Expert",
+                  children: "Pro",
                 }),
               ],
             }),
@@ -15866,7 +15866,7 @@ function x1() {
                 className: "flex justify-center mb-8",
                 children: c.jsx("img", {
                   src: wu,
-                  alt: "Expert",
+                  alt: "Pro",
                   className:
                     "w-80 h-80 md:w-96 md:h-96 object-cover logo-glitch",
                 }),
@@ -15875,7 +15875,7 @@ function x1() {
                 className: "flex justify-center mb-6",
                 children: c.jsx("img", {
                   src: g1,
-                  alt: "Expert Text",
+                  alt: "Pro Text",
                   className: "w-96 max-w-full h-auto logo-glitch",
                 }),
               }),
@@ -15887,7 +15887,7 @@ function x1() {
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Expert 
+                children: `Pro 
 
 `,
               }),
@@ -16059,7 +16059,7 @@ function S1() {
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
-              children: `Expert `,
+              children: `Pro `,
             }),
           ],
         }),
@@ -16077,7 +16077,7 @@ function S1() {
                       c.jsx("h3", {
                         className:
                           "font-orbitron-bold text-xl mb-4 text-nsfw-cyan",
-                        children: "About Expert ($高手)",
+                        children: "About Pro ($高手)",
                       }),
                       c.jsxs("div", {
                         className:
@@ -16238,7 +16238,7 @@ function k1() {
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Toggle the NSFW switch and Expert transforms before your very eyes:",
+                "Toggle the NSFW switch and Pro transforms before your very eyes:",
             }),
           ],
         }),
@@ -16323,7 +16323,7 @@ function k1() {
                   className:
                     "text-xl font-orbitron-bold text-nsfw-magenta mb-4",
                   children:
-                    "Expert isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
+                    "Pro isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
                 }),
                 c.jsx("p", {
                   className: "text-white/80",
@@ -16391,7 +16391,7 @@ function _1() {
     r = [
       {
         id: 1,
-        title: "Expert Collection #1",
+        title: "Pro Collection #1",
         description: "Exclusive NSFW content",
         preview: C1,
         tokensRequired: 0,
@@ -16399,7 +16399,7 @@ function _1() {
       },
       {
         id: 2,
-        title: "Expert Collection #2",
+        title: "Pro Collection #2",
         description: "Premium artwork collection",
         preview: E1,
         tokensRequired: 0,
@@ -16407,7 +16407,7 @@ function _1() {
       },
       {
         id: 3,
-        title: "Expert Collection #3",
+        title: "Pro Collection #3",
         description: "Limited edition drops",
         preview: N1,
         tokensRequired: 0,
@@ -16415,7 +16415,7 @@ function _1() {
       },
       {
         id: 4,
-        title: "Expert Collection #4",
+        title: "Pro Collection #4",
         description: "VIP exclusive content",
         preview: P1,
         tokensRequired: 0,
@@ -16423,7 +16423,7 @@ function _1() {
       },
       {
         id: 5,
-        title: "Expert Collection #5",
+        title: "Pro Collection #5",
         description: "Ultra rare collectibles",
         preview: T1,
         tokensRequired: 0,
@@ -16431,7 +16431,7 @@ function _1() {
       },
       {
         id: 6,
-        title: "Expert Collection #6",
+        title: "Pro Collection #6",
         description: "Legendary tier artwork",
         preview: j1,
         tokensRequired: 0,
@@ -16439,7 +16439,7 @@ function _1() {
       },
       {
         id: 7,
-        title: "Expert Collection #7",
+        title: "Pro Collection #7",
         description: "Seductive masterpiece",
         preview: R1,
         tokensRequired: 0,
@@ -16447,7 +16447,7 @@ function _1() {
       },
       {
         id: 8,
-        title: "Expert Collection #8",
+        title: "Pro Collection #8",
         description: "Gothic elegance",
         preview: b1,
         tokensRequired: 0,
@@ -16517,7 +16517,7 @@ function _1() {
                   }),
                   c.jsx("span", {
                     className: "text-nsfw-cyan font-orbitron text-sm",
-                    children: "Expert After Dark",
+                    children: "Pro After Dark",
                   }),
                 ],
               }),
@@ -16537,12 +16537,12 @@ function _1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "📸 Expert After Dark",
+              children: "📸 Pro After Dark",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Exclusive NSFW content featuring Expert in the most seductive moments.",
+                "Exclusive NSFW content featuring Pro in the most seductive moments.",
             }),
           ],
         }),
@@ -16563,7 +16563,7 @@ function _1() {
                     c.jsx("p", {
                       className: "text-white/60 mb-4",
                       children:
-                        "Explore Expert's exclusive collection of seductive artwork",
+                        "Explore Pro's exclusive collection of seductive artwork",
                     }),
                     c.jsx("button", {
                       className: "nsfw-button",
@@ -16666,7 +16666,7 @@ function I1() {
       number: 3,
       title: "Connect to Pancakeswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Expert contract address.",
+        "Visit Pancakeswap and connect your wallet. Paste the Pro contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
@@ -16680,7 +16680,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Expert tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your BNB for Pro tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16696,7 +16696,7 @@ function I1() {
           children: [
             c.jsx("h2", {
               className: "font-fredoka text-4xl text-crypto-dark mb-4",
-              children: "How to Buy Expert",
+              children: "How to Buy Pro",
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
@@ -16790,7 +16790,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/#",
+      url: "https://t.me/ProOnBNB",
     },
     {
       name: "X",
@@ -16799,7 +16799,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/#",
+      url: "https://x.com/ProOnBNB",
     },
     {
       name: "DexScreener",
@@ -16884,20 +16884,20 @@ function D1() {
 }
 const F1 = "/twitter.png";
 function z1() {
-  const e = ["Buy Tokens", "Tokenomics", "Expert Gallery", "Community"],
+  const e = ["Buy Tokens", "Tokenomics", "Pro Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
     n = [
       {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/#",
+        url: "https://t.me/ProOnBNB",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/#",
+        url: "https://x.com/ProOnBNB",
       },
       { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
@@ -16905,7 +16905,7 @@ function z1() {
       const s = {
         "Buy Tokens": "buy",
         Tokenomics: "tokenomics",
-        "Expert Gallery": "gallery",
+        "Pro Gallery": "gallery",
         Community: "community",
       }[o];
       if (s) {
@@ -16922,7 +16922,7 @@ function z1() {
           className: "mb-12 flex justify-center",
           children: c.jsx("img", {
             src: F1,
-            alt: "Expert Footer Banner",
+            alt: "Pro Footer Banner",
             className:
               "max-w-full h-auto rounded-lg shadow-2xl border border-nsfw-cyan/30",
           }),
@@ -16937,21 +16937,21 @@ function z1() {
                   children: [
                     c.jsx("img", {
                       src: wu,
-                      alt: "Expert",
+                      alt: "Pro",
                       className:
                         "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                     }),
                     c.jsx("span", {
                       className:
                         "font-orbitron-bold text-2xl nsfw-text-gradient",
-                      children: "Expert",
+                      children: "Pro",
                     }),
                   ],
                 }),
                 c.jsx("p", {
                   className: "text-gray-300 mb-4",
                   children:
-                    "Expert ",
+                    "Pro ",
                 }),
                 c.jsx("div", {
                   className: "flex space-x-4",
@@ -17038,7 +17038,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Expert. Made with 👶 and 💎 by degenerates for degenerates.",
+                "© 2025 Pro. Made with 👶 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
