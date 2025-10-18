@@ -15714,13 +15714,13 @@ function v1() {
               children: [
                 c.jsx("img", {
                   src: "/logo1.png",
-                  alt: "Finger Heart",
+                  alt: "Expert",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                 }),
                 c.jsx("span", {
                   className: "font-orbitron-bold text-2xl nsfw-text-gradient",
-                  children: "Finger Heart",
+                  children: "Expert",
                 }),
               ],
             }),
@@ -15761,8 +15761,8 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "🫰 Get $🫰",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+              children: "👶 Get $高手",
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15810,8 +15810,8 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "🫰 Get $🫰",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+                children: "👶 Get $高手",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
               }),
             ],
@@ -15866,28 +15866,28 @@ function x1() {
                 className: "flex justify-center mb-8",
                 children: c.jsx("img", {
                   src: wu,
-                  alt: "Finger Heart",
+                  alt: "Expert",
                   className:
-                    "w-80 h-80 md:w-96 md:h-96 object-cover rounded-full border-4 border-nsfw-cyan shadow-2xl logo-glitch",
+                    "w-80 h-80 md:w-96 md:h-96 object-cover logo-glitch",
                 }),
               }),
               c.jsx("div", {
                 className: "flex justify-center mb-6",
                 children: c.jsx("img", {
                   src: g1,
-                  alt: "Finger Heart Text",
+                  alt: "Expert Text",
                   className: "w-96 max-w-full h-auto logo-glitch",
                 }),
               }),
               c.jsx("h1", {
                 className:
                   "font-orbitron-black text-4xl md:text-6xl nsfw-text-gradient mb-4",
-                children: "$🫰 Token",
+                children: "$高手 Token",
               }),
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Finger Heart 
+                children: `Expert 
 
 `,
               }),
@@ -15898,12 +15898,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+                href: "https://bscscan.com/address/0x00000000000000000000000000000000000000",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16028,7 +16028,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+    t = "0x00000000000000000000000000000000000000",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16059,7 +16059,7 @@ function S1() {
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
-              children: `Finger Heart `,
+              children: `Expert `,
             }),
           ],
         }),
@@ -16077,13 +16077,19 @@ function S1() {
                       c.jsx("h3", {
                         className:
                           "font-orbitron-bold text-xl mb-4 text-nsfw-cyan",
-                        children: "About Finger Heart",
+                        children: "About Expert ($高手)",
                       }),
                       c.jsxs("div", {
                         className:
                           "bg-nsfw-dark rounded-lg p-4 font-orbitron text-sm break-all border border-nsfw-cyan",
                         children: [
-                          c.jsx("span", { children: "Finger Heart🫰 - Known worldwide as a symbol of love ❤️‍🔥 and peace 🕊. ♥️ Love and peace, we build together with Binance! 🔶" }),
+                          c.jsx("span", { children: "Ticker given by CZ after Binance life" }),
+                          c.jsx("div", { children: "--------------------------------------" }),
+                          
+                          c.jsx("div", { children: "CZ said it best: “高手 - a pro, haha.”" }),
+                          c.jsx("div", { children: "From one tweet to a full-blown meme narrative.$高手 isn’t just a token , it’s a symbol of every trader who survived the bear and became a pro." }),
+                          c.jsx("div", { children: "--------------------------------------" }),
+                          c.jsx("div", { children: "Be a degen, but be a #高手”" }),
                           
                         ],
                       }),
@@ -16126,7 +16132,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16148,7 +16154,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdd967e27b606333eabfaa544776d5339c2ab1046?t=1760700876005",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16185,7 +16191,7 @@ function S1() {
                           width: "100%",
                           height: "400",
                           
-                        })
+                        }),
                      
                     
                   ],
@@ -16232,7 +16238,7 @@ function k1() {
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Toggle the NSFW switch and Finger Heart transforms before your very eyes:",
+                "Toggle the NSFW switch and Expert transforms before your very eyes:",
             }),
           ],
         }),
@@ -16317,7 +16323,7 @@ function k1() {
                   className:
                     "text-xl font-orbitron-bold text-nsfw-magenta mb-4",
                   children:
-                    "Finger Heart isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
+                    "Expert isn't just a bot. She's an interactive AI waifu with Grok 4 brains and OnlyFans energy.",
                 }),
                 c.jsx("p", {
                   className: "text-white/80",
@@ -16385,7 +16391,7 @@ function _1() {
     r = [
       {
         id: 1,
-        title: "Finger Heart Collection #1",
+        title: "Expert Collection #1",
         description: "Exclusive NSFW content",
         preview: C1,
         tokensRequired: 0,
@@ -16393,7 +16399,7 @@ function _1() {
       },
       {
         id: 2,
-        title: "Finger Heart Collection #2",
+        title: "Expert Collection #2",
         description: "Premium artwork collection",
         preview: E1,
         tokensRequired: 0,
@@ -16401,7 +16407,7 @@ function _1() {
       },
       {
         id: 3,
-        title: "Finger Heart Collection #3",
+        title: "Expert Collection #3",
         description: "Limited edition drops",
         preview: N1,
         tokensRequired: 0,
@@ -16409,7 +16415,7 @@ function _1() {
       },
       {
         id: 4,
-        title: "Finger Heart Collection #4",
+        title: "Expert Collection #4",
         description: "VIP exclusive content",
         preview: P1,
         tokensRequired: 0,
@@ -16417,7 +16423,7 @@ function _1() {
       },
       {
         id: 5,
-        title: "Finger Heart Collection #5",
+        title: "Expert Collection #5",
         description: "Ultra rare collectibles",
         preview: T1,
         tokensRequired: 0,
@@ -16425,7 +16431,7 @@ function _1() {
       },
       {
         id: 6,
-        title: "Finger Heart Collection #6",
+        title: "Expert Collection #6",
         description: "Legendary tier artwork",
         preview: j1,
         tokensRequired: 0,
@@ -16433,7 +16439,7 @@ function _1() {
       },
       {
         id: 7,
-        title: "Finger Heart Collection #7",
+        title: "Expert Collection #7",
         description: "Seductive masterpiece",
         preview: R1,
         tokensRequired: 0,
@@ -16441,7 +16447,7 @@ function _1() {
       },
       {
         id: 8,
-        title: "Finger Heart Collection #8",
+        title: "Expert Collection #8",
         description: "Gothic elegance",
         preview: b1,
         tokensRequired: 0,
@@ -16473,7 +16479,7 @@ function _1() {
                       }),
                       c.jsxs("p", {
                         className: "text-white font-orbitron-bold",
-                        children: [i.tokensRequired.toLocaleString(), " $🫰"],
+                        children: [i.tokensRequired.toLocaleString(), " $高手"],
                       }),
                       c.jsx("p", {
                         className: "text-white/70 text-sm",
@@ -16511,7 +16517,7 @@ function _1() {
                   }),
                   c.jsx("span", {
                     className: "text-nsfw-cyan font-orbitron text-sm",
-                    children: "Finger Heart After Dark",
+                    children: "Expert After Dark",
                   }),
                 ],
               }),
@@ -16531,12 +16537,12 @@ function _1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "📸 Finger Heart After Dark",
+              children: "📸 Expert After Dark",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
               children:
-                "Exclusive NSFW content featuring Finger Heart in the most seductive moments.",
+                "Exclusive NSFW content featuring Expert in the most seductive moments.",
             }),
           ],
         }),
@@ -16548,7 +16554,7 @@ function _1() {
               children: r.map((i) => c.jsx(o, { content: i }, i.id)),
             }),
             c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdd967e27b606333eabfaa544776d5339c2ab1046?t=1760700876005",
+              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
               target: "_blank",
               children: [
                 c.jsxs("div", {
@@ -16557,7 +16563,7 @@ function _1() {
                     c.jsx("p", {
                       className: "text-white/60 mb-4",
                       children:
-                        "Explore Finger Heart's exclusive collection of seductive artwork",
+                        "Explore Expert's exclusive collection of seductive artwork",
                     }),
                     c.jsx("button", {
                       className: "nsfw-button",
@@ -16660,7 +16666,7 @@ function I1() {
       number: 3,
       title: "Connect to Pancakeswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Finger Heart contract address.",
+        "Visit Pancakeswap and connect your wallet. Paste the Expert contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
@@ -16674,7 +16680,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Finger Heart tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your BNB for Expert tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16690,7 +16696,7 @@ function I1() {
           children: [
             c.jsx("h2", {
               className: "font-fredoka text-4xl text-crypto-dark mb-4",
-              children: "How to Buy Finger Heart",
+              children: "How to Buy Expert",
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
@@ -16784,7 +16790,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/BNBFingerHeart",
+      url: "https://t.me/#",
     },
     {
       name: "X",
@@ -16793,7 +16799,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/BNBFingerHeart",
+      url: "https://x.com/#",
     },
     {
       name: "DexScreener",
@@ -16802,7 +16808,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
     },
     {
       name: "Coingecko",
@@ -16878,28 +16884,28 @@ function D1() {
 }
 const F1 = "/twitter.png";
 function z1() {
-  const e = ["Buy Tokens", "Tokenomics", "Finger Heart Gallery", "Community"],
+  const e = ["Buy Tokens", "Tokenomics", "Expert Gallery", "Community"],
     t = ["Whitepaper", "Audit Report", "Roadmap", "FAQ"],
     n = [
       {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/BNBFingerHeart",
+        url: "https://t.me/#",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/BNBFingerHeart",
+        url: "https://x.com/#",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdd967e27b606333eabfaa544776d5339c2ab1046?t=1760700876005" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
     ],
     r = (o) => {
       const s = {
         "Buy Tokens": "buy",
         Tokenomics: "tokenomics",
-        "Finger Heart Gallery": "gallery",
+        "Expert Gallery": "gallery",
         Community: "community",
       }[o];
       if (s) {
@@ -16916,7 +16922,7 @@ function z1() {
           className: "mb-12 flex justify-center",
           children: c.jsx("img", {
             src: F1,
-            alt: "Finger Heart Footer Banner",
+            alt: "Expert Footer Banner",
             className:
               "max-w-full h-auto rounded-lg shadow-2xl border border-nsfw-cyan/30",
           }),
@@ -16931,21 +16937,21 @@ function z1() {
                   children: [
                     c.jsx("img", {
                       src: wu,
-                      alt: "Finger Heart",
+                      alt: "Expert",
                       className:
                         "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
                     }),
                     c.jsx("span", {
                       className:
                         "font-orbitron-bold text-2xl nsfw-text-gradient",
-                      children: "Finger Heart",
+                      children: "Expert",
                     }),
                   ],
                 }),
                 c.jsx("p", {
                   className: "text-gray-300 mb-4",
                   children:
-                    "Finger Heart ",
+                    "Expert ",
                 }),
                 c.jsx("div", {
                   className: "flex space-x-4",
@@ -17013,12 +17019,12 @@ function z1() {
                     }),
                     c.jsx("div", {
                       className: "text-gray-300",
-                      children: "Symbol: 🫰",
+                      children: "Symbol: 高手",
                     }),
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x7bd5c08aa31e6d18d3088e19e0297b36c5bc7234",
+                        "Contract: 0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -17032,7 +17038,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Finger Heart. Made with 🫰 and 💎 by degenerates for degenerates.",
+                "© 2025 Expert. Made with 👶 and 💎 by degenerates for degenerates.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
