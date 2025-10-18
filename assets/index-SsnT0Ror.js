@@ -16835,7 +16835,7 @@ function D1() {
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
-              children: "Connect with fellow degenerates and diamond hands!",
+              children: "Connect with fellow experts and diamond hands!",
             }),
           ],
         }),
@@ -17038,7 +17038,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Pro. Made with 👶 and 💎 by degenerates for degenerates.",
+                "© 2025 Pro. Made with 👶 and 💎 by experts for experts.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
