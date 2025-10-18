@@ -15762,7 +15762,7 @@ function v1() {
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
               children: "👶 Get $高手",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
+              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15811,7 +15811,7 @@ function v1() {
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
                 children: "👶 Get $高手",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
                 target: "_blank",
               }),
             ],
@@ -15898,12 +15898,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x00000000000000000000000000000000000000",
+                href: "https://bscscan.com/address/0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16028,7 +16028,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x00000000000000000000000000000000000000",
+    t = "0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16132,7 +16132,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16154,7 +16154,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
+                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x01b041358ec0050a9d2ebfcd3a28896aaa863a24?t=1760820223796",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16554,7 +16554,7 @@ function _1() {
               children: r.map((i) => c.jsx(o, { content: i }, i.id)),
             }),
             c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex",
+              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x01b041358ec0050a9d2ebfcd3a28896aaa863a24?t=1760820223796",
               target: "_blank",
               children: [
                 c.jsxs("div", {
@@ -16808,7 +16808,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+      url: "https://dexscreener.com/ethereum/0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
     },
     {
       name: "Coingecko",
@@ -16899,7 +16899,7 @@ function z1() {
         color: "hover:text-nsfw-cyan",
         url: "https://x.com/ProOnBNB",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xdex" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0x01b041358ec0050a9d2ebfcd3a28896aaa863a24?t=1760820223796" },
     ],
     r = (o) => {
       const s = {
@@ -17024,7 +17024,7 @@ function z1() {
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x00000000000000000000000000000000000000",
+                        "Contract: 0x67a32cec77f75911e309bf798f2c82fe75d4dcda",
                     }),
                   ],
                 }),
