@@ -15761,7 +15761,7 @@ function v1() {
             }),
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
-              children: "👶 Get $HYPER",
+              children: "⚡️ Get $HYPER",
               href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x49d6fd36029e6472cf0e650acf4555531e4e4444",
               target: "_blank",
             }),
@@ -15810,7 +15810,7 @@ function v1() {
               }),
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
-                children: "👶 Get $HYPER",
+                children: "⚡️ Get $HYPER",
                 href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x49d6fd36029e6472cf0e650acf4555531e4e4444",
                 target: "_blank",
               }),
@@ -17051,7 +17051,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Bitcoin Hyper. Made with 👶 and 💎 by experts for experts.",
+                "© 2025 Bitcoin Hyper. Made with ⚡️ and 💎 by experts for experts.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
