@@ -15868,7 +15868,7 @@ function x1() {
                   src: wu,
                   alt: "Bitcoin Hyper",
                   className:
-                    "w-80 h-80 md:w-96 md:h-96 object-cover logo-glitch",
+                    "w-80 h-80 object-cover rounded-full border-4 border-nsfw-cyan logo-glitch",
                 }),
               }),
               c.jsx("div", {
