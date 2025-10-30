@@ -15713,7 +15713,7 @@ function v1() {
               onClick: () => o("home"),
               children: [
                 c.jsx("img", {
-                  src: "/logo1.png",
+                  src: "/main.gif",
                   alt: "Bitcoin Hyper",
                   className:
                     "w-10 h-10 object-cover rounded-full border-2 border-nsfw-cyan logo-glitch",
@@ -16848,7 +16848,7 @@ function D1() {
             }),
             c.jsx("p", {
               className: "text-lg text-crypto-dark/70",
-              children: "Connect with fellow experts and diamond hands!",
+              children: "Connect with fellow Hypers and diamond hands!",
             }),
           ],
         }),
@@ -17051,7 +17051,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Bitcoin Hyper. Made with ⚡️ and 💎 by experts for experts.",
+                "© 2025 Bitcoin Hyper. Made with ⚡️ and 💎 by Hypers for Hypers.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
