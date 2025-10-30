@@ -15868,7 +15868,7 @@ function x1() {
                   src: wu,
                   alt: "Bitcoin Hyper",
                   className:
-                    "w-80 h-80 object-cover rounded-full border-4 border-nsfw-cyan logo-glitch",
+                    "w-100 h-100 object-cover rounded-full border-4 border-nsfw-cyan logo-glitch",
                 }),
               }),
               c.jsx("div", {
@@ -15900,7 +15900,7 @@ function x1() {
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Bitcoin Hyper 
+                children: `Bitcoin Hyper. Building BSC's Future, too.
 
 `,
               }),
