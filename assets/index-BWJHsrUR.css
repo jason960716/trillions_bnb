@@ -56,7 +56,7 @@
 }
 .mybackground{
   background: #000;
-  /* background-image: url("/assets/main.gif"); */
+  background-image: url("/back.png");
   
   background-position: center;
   background-size: cover;
