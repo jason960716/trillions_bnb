@@ -17056,7 +17056,7 @@ function z1() {
             c.jsx("p", {
               className: "text-gray-400 mb-2",
               children:
-                "© 2025 Bitcoin Hyper. Made with ⚡️ and 💎 by Hypers for Hypers.",
+                "© 2026 Bitcoin Hyper. Made with ⚡️ and 💎 by Hypers for Hypers.",
             }),
             c.jsx("p", {
               className: "text-xs text-gray-500",
