@@ -15762,7 +15762,7 @@ function v1() {
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
               children: "⚡️ Get $HYPER",
-              href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x35673b5be65c277e9a41a2262a8995eb69707c17",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15811,7 +15811,7 @@ function v1() {
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
                 children: "⚡️ Get $HYPER",
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
               }),
             ],
@@ -15900,7 +15900,7 @@ function x1() {
               c.jsx("p", {
                 className:
                   "text-lg md:text-xl text-white/80 mb-8 max-w-4xl mx-auto",
-                children: `Bitcoin Hyper. Building BSC's Future, too.
+                children: `Bitcoin Hyper. Building Ethereum's Future, too.
 
 `,
               }),
@@ -15911,12 +15911,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://bscscan.com/address/0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                href: "https://etherscan.io/token/0x00000000000000000000000000000000000000",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Pancakeswap",
@@ -16041,7 +16041,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x35673b5be65c277e9a41a2262a8995eb69707c17",
+    t = "0x00000000000000000000000000000000000000",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16068,7 +16068,7 @@ function S1() {
           children: [
             c.jsx("h2", {
               className: "font-orbitron-black text-4xl text-nsfw-magenta mb-4",
-              children: "🔶 BNB Chain Just Got a Lot... Hotter 😏",
+              children: "🔹 ETH Chain Just Got a Lot... Hotter 😏",
             }),
             c.jsx("p", {
               className: "text-lg text-white/80",
@@ -16103,7 +16103,7 @@ function S1() {
                           c.jsx("div", { children: "⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" }),
                           
                           c.jsx("div", { children: "Bitcoin Hyper. Building Bitcoin's Future." }),
-                          c.jsx("div", { children: "Bitcoin Hyper. Building BSC's Future, too." }),
+                          c.jsx("div", { children: "Bitcoin Hyper. Building Ethereum's Future, too." }),
                           c.jsx("div", { children: "⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" }),
 
                           
@@ -16150,7 +16150,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16172,7 +16172,7 @@ function S1() {
                             children: "",
                           }),
                           c.jsxs("a", {
-                            href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xdex",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16572,7 +16572,7 @@ function _1() {
               children: r.map((i) => c.jsx(o, { content: i }, i.id)),
             }),
             c.jsxs("a", {
-              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x35673b5be65c277e9a41a2262a8995eb69707c17",
+              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xdex",
               target: "_blank",
               children: [
                 c.jsxs("div", {
@@ -16646,7 +16646,7 @@ function I1() {
       number: 1,
       title: "Get a Wallet",
       description:
-        "Download MetaMask or another BNB-compatible wallet from their official website.",
+        "Download MetaMask or another ETH-compatible wallet from their official website.",
       gradient: "crypto-pink-gradient",
       buttons: [
         {
@@ -16663,9 +16663,9 @@ function I1() {
     },
     {
       number: 2,
-      title: "Buy BNB",
+      title: "Buy ETH",
       description:
-        "Purchase BNB from a reputable exchange and transfer it to your wallet.",
+        "Purchase ETH from a reputable exchange and transfer it to your wallet.",
       gradient: "crypto-turquoise-gradient",
       buttons: [
         {
@@ -16698,7 +16698,7 @@ function I1() {
       number: 4,
       title: "Swap & HODL",
       description:
-        "Set slippage to 1-3%, swap your BNB for Bitcoin Hyper tokens, and hold for the moon! 🚀",
+        "Set slippage to 1-3%, swap your ETH for Bitcoin Hyper tokens, and hold for the moon! 🚀",
       gradient: "bg-gradient-to-r from-purple-500 to-pink-500",
       buttons: [],
     },
@@ -16808,7 +16808,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "Join Now",
-      url: "https://t.me/BitcoinHyperBNB",
+      url: "https://t.me/HyperErc20",
     },
     {
       name: "X",
@@ -16817,7 +16817,7 @@ function D1() {
       color: "from-nsfw-magenta to-nsfw-cyan",
       textColor: "text-nsfw-magenta",
       members: "Follow",
-      url: "https://x.com/BitcoinHyperBNB",
+      url: "https://x.com/HyperErc20",
     },
     {
       name: "DexScreener",
@@ -16826,7 +16826,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x35673b5be65c277e9a41a2262a8995eb69707c17",
+      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
     },
     {
       name: "Coingecko",
@@ -16909,15 +16909,15 @@ function z1() {
         icon: "📱",
         name: "Telegram",
         color: "hover:text-nsfw-cyan",
-        url: "https://t.me/BitcoinHyperBNB",
+        url: "https://t.me/HyperErc20",
       },
       {
         icon: "🐦",
         name: "X", 
         color: "hover:text-nsfw-cyan",
-        url: "https://x.com/BitcoinHyperBNB",
+        url: "https://x.com/HyperErc20",
       },
-      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0x35673b5be65c277e9a41a2262a8995eb69707c17" },
+      { icon: "📊", name: "DexTools", color: "hover:text-nsfw-cyan", url: "https://www.dextools.io/app/en/ether/pair-explorer/0xdex" },
     ],
     r = (o) => {
       const s = {
@@ -17042,7 +17042,7 @@ function z1() {
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x35673b5be65c277e9a41a2262a8995eb69707c17",
+                        "Contract: 0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
