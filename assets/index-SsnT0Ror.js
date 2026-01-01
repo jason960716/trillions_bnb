@@ -15919,7 +15919,7 @@ function x1() {
                 href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                 target: "_blank",
                 className: "nsfw-button",
-                children: "Buy on Pancakeswap",
+                children: "Buy on Uniswap",
               }),
             ],
           }),
@@ -16161,7 +16161,7 @@ function S1() {
                                   className: "mr-2",
                                   children: "Ξ",
                                 }),
-                                "Buy on Pancakeswap",
+                                "Buy on Uniswap",
                                 c.jsx(ro, { className: "w-4 h-4 ml-2" }),
                               ],
                             })
@@ -16682,14 +16682,14 @@ function I1() {
     },
     {
       number: 3,
-      title: "Connect to Pancakeswap",
+      title: "Connect to Uniswap",
       description:
-        "Visit Pancakeswap and connect your wallet. Paste the Bitcoin Hyper contract address.",
+        "Visit Uniswap and connect your wallet. Paste the Bitcoin Hyper contract address.",
       gradient: "bg-gradient-to-r from-yellow-400 to-orange-400",
       buttons: [
         {
           icon: c.jsx(ro, { className: "w-4 h-4" }),
-          text: "Open Pancakeswap",
+          text: "Open Uniswap",
           color: "text-yellow-600",
         },
       ],
