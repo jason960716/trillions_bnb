@@ -15762,7 +15762,7 @@ function v1() {
             c.jsx("a", {
               className: "nsfw-button hidden md:block",
               children: "⚡️ Get $HYPER",
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd54180a10281a55069106f34572d459878ba1ac1",
               target: "_blank",
             }),
             c.jsx("button", {
@@ -15811,7 +15811,7 @@ function v1() {
               c.jsx("a", {
                 className: "nsfw-button w-full mt-4",
                 children: "⚡️ Get $HYPER",
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd54180a10281a55069106f34572d459878ba1ac1",
                 target: "_blank",
               }),
             ],
@@ -15911,12 +15911,12 @@ function x1() {
               "flex flex-col sm:flex-row gap-4 justify-center items-center mb-12",
             children: [
               c.jsx("a", {
-                href: "https://etherscan.io/token/0x00000000000000000000000000000000000000",
+                href: "https://etherscan.io/token/0xd54180a10281a55069106f34572d459878ba1ac1",
                 className: "nsfw-button",
                 children: "View Contract Address",
               }),
               c.jsx("a", {
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd54180a10281a55069106f34572d459878ba1ac1",
                 target: "_blank",
                 className: "nsfw-button",
                 children: "Buy on Uniswap",
@@ -16041,7 +16041,7 @@ const w1 = Oh(
 Su.displayName = "Button";
 function S1() {
   const { toast: e } = oh(),
-    t = "0x00000000000000000000000000000000000000",
+    t = "0xd54180a10281a55069106f34572d459878ba1ac1",
     n = async () => {
       try {
         await navigator.clipboard.writeText(t),
@@ -16150,7 +16150,7 @@ function S1() {
                         className: "space-y-4",
                         children: [
                           c.jsxs("a", {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd54180a10281a55069106f34572d459878ba1ac1",
                             target: "_blank",
                             className: "my-4",
                             children: [
@@ -16826,7 +16826,7 @@ function D1() {
       color: "from-nsfw-cyan to-nsfw-magenta",
       textColor: "text-nsfw-cyan",
       members: "View Chart",
-      url: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+      url: "https://dexscreener.com/ethereum/0xd54180a10281a55069106f34572d459878ba1ac1",
     },
     {
       name: "Coingecko",
@@ -17042,7 +17042,7 @@ function z1() {
                     c.jsx("div", {
                       className: "text-gray-300 break-all font-space",
                       children:
-                        "Contract: 0x00000000000000000000000000000000000000",
+                        "Contract: 0xd54180a10281a55069106f34572d459878ba1ac1",
                     }),
                   ],
                 }),
